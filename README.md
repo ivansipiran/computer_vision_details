@@ -1,1 +1,1 @@
-# computer_vision_details
+# Repositorio de Vision Computacional
